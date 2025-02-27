@@ -1,24 +1,5 @@
-// function readGeo() {
-//   const geoData = fs.readFileSync("./data/geo.json");
-//   const parsedData = JSON.parse(geoData);
-//   return parsedData;
-// }
-
-// function getGeoQuestion(question) {
-//   const geo = readGeo();
-//   return geo.find((geo) => geo.question === question);
-// }
-
-// function getGeoAnswer(answer) {
-//     const geo = readGeo();
-//     return geo.find((geo) => geo.answer === answer);
-//   }
-
-
-
 import express from "express";
 import fs from "fs";
-import { v4 as uuidv4 } from "uuid";
 
 const router = express.Router();
 
