@@ -1,0 +1,64 @@
+{
+    "science_trivia_questions": [
+      {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O"
+      },
+      {
+        "question": "How many planets are in our solar system?",
+        "answer": "8"
+      },
+      {
+        "question": "What is the largest planet in our solar system?",
+        "answer": "Jupiter"
+      },
+      {
+        "question": "What gas do plants absorb from the air for photosynthesis?",
+        "answer": "Carbon dioxide"
+      },
+      {
+        "question": "What is the boiling point of water in degrees Celsius?",
+        "answer": "100"
+      },
+      {
+        "question": "What is the hardest natural substance on Earth?",
+        "answer": "Diamond"
+      },
+      {
+        "question": "What is the main source of energy for the Earth?",
+        "answer": "The Sun"
+      },
+      {
+        "question": "What is the process by which plants make their own food?",
+        "answer": "Photosynthesis"
+      },
+      {
+        "question": "What is the chemical formula for methane?",
+        "answer": "CH4"
+      },
+      {
+        "question": "What organ in the human body pumps blood?",
+        "answer": "Heart"
+      },
+      {
+        "question": "What is the nearest star to Earth after the Sun?",
+        "answer": "Proxima Centauri"
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "answer": "Mars"
+      },
+      {
+        "question": "What is the basic unit of life?",
+        "answer": "Cell"
+      },
+      {
+        "question": "What gas do humans exhale when breathing?",
+        "answer": "Carbon dioxide"
+      },
+      {
+        "question": "What is the force that pulls objects toward the Earth?",
+        "answer": "Gravity"
+      }
+    ]
+  }
