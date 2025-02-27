@@ -1,1 +1,159 @@
-hi
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "question": "What is the capital city of France?",
+          "answer": "Paris"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.3522, 48.8566]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "question": "Which country is known as the Land of the Rising Sun?",
+          "answer": "Japan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [137.7267, 35.2433]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "question": "Which continent is the Sahara Desert located on?",
+          "answer": "Africa"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [13.6870, 23.4162]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "question": "Which river is the longest in the world?",
+          "answer": "Nile River"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [31.2357, 30.0444]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "question": "What is the smallest country in the world?",
+          "answer": "Vatican City"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [12.4534, 41.9029]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "question": "Which country is home to the Great Barrier Reef?",
+          "answer": "Australia"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [133.7751, -25.2744]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "question": "What is the capital city of Canada?",
+          "answer": "Ottawa"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.6972, 45.4215]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "question": "Which country has the largest population in the world?",
+          "answer": "China"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [104.1954, 35.8617]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "question": "What is the capital of Japan?",
+          "answer": "Tokyo"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [139.6917, 35.6895]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "question": "Which continent is the Amazon Rainforest located in?",
+          "answer": "South America"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-63.8726, -3.4653]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "question": "Which country is known for the pyramids?",
+          "answer": "Egypt"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [31.2357, 30.0444]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "question": "Which is the largest ocean on Earth?",
+          "answer": "Pacific Ocean"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-160.0, -5.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "question": "Which country is famous for the Eiffel Tower?",
+          "answer": "France"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.2945, 48.8584]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "question": "What is the capital of Spain?",
+          "answer": "Madrid"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-3.7038, 40.4168]
+        }
+      }
+    ]
+  }
